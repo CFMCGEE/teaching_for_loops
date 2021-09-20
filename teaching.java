@@ -25,7 +25,7 @@ public class Teaching {
 //String array
     String[] names = {"Caleb", "Daya", "Jade", "Diego", "Boris", "Lia", "Cece", "Ishemll", "Saahir", "Jordan", "Shannon", "Raul", "Jeremy", "Shafi"};
 
-    //array sorting
+    //array sorting (descending order)
      Arrays.sort(names);
 
      //print out the full string array
